@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="PageNumberView">
+        <attr format="color" name="textColorRight"/>
+        <attr format="color" name="textColorLeft"/>
+        <attr format="color" name="textColorTitle"/>
+    </declare-styleable>
+</resources>
